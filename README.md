@@ -1,0 +1,3 @@
+the first task was quite easy with the most part, i came across a problem when trying to print out list1 list2 and then list3 in the output so i used AI and got the result i wanted to get. in the second task, main code was not the problem but with so much files and folders i managed to mess one up (single folder was made incorrectly) but this was easy to resolve without AI.  
+
+ and there are no cases where I got undesired answer from AI.
